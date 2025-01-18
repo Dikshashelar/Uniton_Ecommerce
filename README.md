@@ -15,4 +15,5 @@ Newsletter and Footer
 
 Back-end: Created RESTful API with Node.js and Express, advanced MongoDB querying, and JWT for secure authentication.
 
-Register
+Product List
+
