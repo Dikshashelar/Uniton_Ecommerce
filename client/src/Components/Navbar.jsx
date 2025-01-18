@@ -102,7 +102,7 @@ const Navbar = () => {
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>LAMA.</Logo>
+          <Logo>Uniton.</Logo>
         </Center>
         <Right>
           <MenuItemStyled>REGISTER</MenuItemStyled>
