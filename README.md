@@ -4,3 +4,4 @@ Front-end: Implemented slider without libraries, utilized React hooks and styled
 
 Announcement Navbar and Slider
 ![Image](https://github.com/user-attachments/assets/64629fc7-eb03-4f1c-a073-19fd50072d7b)
+Categories
