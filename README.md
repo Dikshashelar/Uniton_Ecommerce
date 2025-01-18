@@ -24,5 +24,5 @@ Product
 Dynamic Shopping: Filter, sort, customize products, and real-time updates using Redux for a smooth shopping experience.
 
 Cart 
-
+![Image](https://github.com/user-attachments/assets/76c17ac0-ef15-41b5-89a3-89951256a19b)
 
