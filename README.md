@@ -12,3 +12,7 @@ Products
 
 Newsletter and Footer
 ![Image](https://github.com/user-attachments/assets/694d42f7-240e-4636-b305-85b2dfa1ba82)
+
+Back-end: Created RESTful API with Node.js and Express, advanced MongoDB querying, and JWT for secure authentication.
+
+Register
