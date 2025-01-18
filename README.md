@@ -9,3 +9,5 @@ Categories
 
 Products
 ![Image](https://github.com/user-attachments/assets/c9461a99-dfc4-436e-b852-c2daa6a9e75e)
+
+Newsletter and Footer
