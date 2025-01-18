@@ -21,3 +21,8 @@ Product List
 Product
 ![Image](https://github.com/user-attachments/assets/db83f46b-86ed-404c-a54e-cfac212e85c2)
 
+Dynamic Shopping: Filter, sort, customize products, and real-time updates using Redux for a smooth shopping experience.
+
+Cart 
+
+
