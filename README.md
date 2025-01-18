@@ -8,3 +8,4 @@ Categories
 ![Image](https://github.com/user-attachments/assets/13040b51-2ce9-41d8-bd22-fd06fe6fcb66)
 
 Products
+![Image](https://github.com/user-attachments/assets/c9461a99-dfc4-436e-b852-c2daa6a9e75e)
