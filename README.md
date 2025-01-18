@@ -6,3 +6,5 @@ Announcement Navbar and Slider
 ![Image](https://github.com/user-attachments/assets/64629fc7-eb03-4f1c-a073-19fd50072d7b)
 Categories
 ![Image](https://github.com/user-attachments/assets/13040b51-2ce9-41d8-bd22-fd06fe6fcb66)
+
+Products
