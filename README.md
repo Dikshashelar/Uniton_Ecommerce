@@ -11,3 +11,4 @@ Products
 ![Image](https://github.com/user-attachments/assets/c9461a99-dfc4-436e-b852-c2daa6a9e75e)
 
 Newsletter and Footer
+![Image](https://github.com/user-attachments/assets/694d42f7-240e-4636-b305-85b2dfa1ba82)
